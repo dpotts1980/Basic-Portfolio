@@ -1,0 +1,89 @@
+
+   .my-name {   
+ background-color: teal;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding-top: 30px;
+    width: 10%;
+    height: 40px;
+    margin-left: 27%;
+    margin-bottom: 0%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+#links {
+    float: right;
+    display: inline;
+    background-color: white;
+    margin-right:33%;
+    width: 12%;
+    }
+
+body {
+    background-color: white; 
+    width: 100%;
+    
+}
+section {
+    background-color: lightgrey;
+    height: 80%;
+}
+#container {
+    background-color: white;
+    width: 40%;
+    height: 40%;
+    margin-left: 27%;
+    margin-right: 15%;
+    padding: 0%;
+}
+
+#container-portfolio {
+    display: block;
+    background-color: white;
+    width: 40%;
+    height: 40%;
+    margin-left: 27%;
+    margin-right: 15%;
+    padding: 0%;
+}
+h1 {
+    color: teal;
+    margin-left: 5%;
+     
+
+}
+img {
+    width: 20%;
+    height: 15%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+p {
+    background-color: white;
+    float: right;
+    width: 15%;
+    margin-right: 0%;
+    padding: 0%;
+    text-align: center;
+    
+}
+
+
+#contact-background {
+    background-color: lightblue;
+    width: 70%;
+}
+#photos {
+    width: 100%;
+    height: 50%;
+}
+footer {
+    clear: both; 
+    background-color: darkgray;
+    color: white;
+    height: 100px;
+    margin-bottom: 0%;
+    text-align: center;
+    
+    padding: 0%;
+}
