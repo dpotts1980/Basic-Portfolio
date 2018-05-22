@@ -5,8 +5,8 @@
     text-align: center;
     margin: 0;
     padding-top: 30px;
-    width: 10%;
-    height: 40px;
+    width: 12%;
+    height: 37px;
     margin-left: 16.5%;
     margin-bottom: 0%;
     font-family: 'Georgia', Times, Times New Roman, serif;
@@ -17,9 +17,14 @@
     display: inline;
     background-color: white;
     margin-right:12%;
+    margin-bottom: 
     width: 15%;
     font-family: 'Georgia', Times, Times New Roman, serif;
     }
+
+#links-portfolio {
+    
+}
 
 body {
     background-color: white; 
@@ -28,16 +33,18 @@ body {
     
 }
 section {
+    background-image: url('assets/images/concreteSeamless.png');
     background-color: lightgrey;
     height: 500px;
-    background-image: -moz-radial-gradient()
+     url('assets/images/concreteSeamless.png')
 }
 #container {
-    background-color: lightblue;
+    background-color: lightgrey;
     width: 960px;
     height: 100%;
     margin-left: 15%;
     margin-right: 15%;
+    margin-top: 0%;
     padding: 0%;
 }
 
@@ -45,11 +52,14 @@ section {
     float: left;
 }
 #container-portfolio {
+    border-top: solid;
+    border-color: lightgrey;
+    border-width: 30px;
     display: block;
     background-color: white;
-    width: 50%;
-    height: 40%;
-    margin-left: 27%;
+    width: 960px;
+    height: 80%;
+    margin-left: 15%;
     margin-right: 15%;
     padding: 0%;
 }
@@ -61,16 +71,17 @@ h1 {
 }
 img {
     width: 20%;
-    height: 35%;
+    height: 40%;
     margin-left: 5%;
+    margin-right: 2%;
     margin-top: 2%;
 }
 p {
     background-color: white;
     color: #777777;
-    margin-right: 0%;
+    margin-left: 0%;
     padding: 0%;
-    text-align: center;
+    text-align: left;
     height: 80%;
     border-top: solid;
 }
@@ -81,8 +92,9 @@ p {
     width: 70%;
 }
 #photos {
-    width: 100%;
-    height: 50%;
+    width: 75%;
+    height: 75%;
+    float: left;
 }
 #contact-form {
     background-color: white;
