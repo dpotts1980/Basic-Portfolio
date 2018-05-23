@@ -41,6 +41,7 @@
 
     section {
         background-color: lightgrey;
+        background-image: url(../images/concreteSeamless.png);
         height: 500px;
     }
     
@@ -112,6 +113,10 @@
        background-color: white;
        border-top: solid;
        border-color: #777777;
+   }
+
+   .inputs {
+       padding-left: 30px;
    }
    footer {
        clear: both; 
