@@ -47,9 +47,11 @@
     
     h1 {
         margin-left: 30%;
+        background-image: url(../images/concreteSeamless.png);
     }
    #container {
        background-color: lightgrey;
+       background-image: url(../images/concreteSeamless.png);
        width: 960px;
        height: 100%;
        margin-left: 15%;
