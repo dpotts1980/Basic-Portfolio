@@ -77,9 +77,12 @@
    h1 {
        color: teal;
        margin-left: 5%;
-        
-   
-   }
+    }
+
+   #portfolio-id {
+       margin-left: 19%;
+    
+}
    img {
        width: 20%;
        height: 40%;
@@ -110,6 +113,7 @@
    #contact-form {
        background-color: white;
        border-top: solid;
+       border-color: #777777;
    }
    footer {
        clear: both; 
